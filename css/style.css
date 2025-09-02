@@ -13197,3 +13197,20 @@ textarea.form-control {
 .flaticon-eye:before {
   content: "\f06e"; /* hypothetical code for eye icon */
 }
+.main-title-header{
+  padding-left: 150px;
+  padding-top: 30px;
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+}
+
+@media (max-width: 728px) {
+  .main-title-header{
+    padding-left: 10px;
+    padding-top: 30px;
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+  }
+}
