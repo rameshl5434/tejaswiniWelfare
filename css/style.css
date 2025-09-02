@@ -13193,3 +13193,7 @@ textarea.form-control {
   margin-top: 15px;
   color: #ffd700; /* Optional: highlight brand name */
 }
+
+.flaticon-eye:before {
+  content: "\f06e"; /* hypothetical code for eye icon */
+}
